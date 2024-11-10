@@ -1,0 +1,1 @@
+Es un simple proyecto de demostación de Git y GitHub.
